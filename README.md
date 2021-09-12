@@ -1,7 +1,7 @@
 ## work day scheduler
 
-#link
+link
 https://banksandrew16.github.io/stunning-broccoli/
 
-#repository
+repository
 https://github.com/Banksandrew16/stunning-broccoli/
