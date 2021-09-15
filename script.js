@@ -29,8 +29,5 @@ $(document).ready(function ()
                 $(this).removeClass("future");}
             else {$(this).removeClass("present");
                 $(this).removeClass("past");
-                $(this).addClass("future");}
-        })
-    }
-    hourTracker(); 
-}) 
+                $(this).addClass("future");}}
+  hourTracker();}) 
